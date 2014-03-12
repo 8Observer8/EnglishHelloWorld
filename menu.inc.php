@@ -6,7 +6,11 @@ require_once 'core.inc.php';
     <li>
         <a href="index.php">Main</a>
     </li>
-    
+
+    <li>
+        <a href="math.php">Math</a>
+    </li>
+
 <!--    <li>
         <a href="#">Examples</a>
         <ul>
