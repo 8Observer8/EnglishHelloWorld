@@ -11,7 +11,26 @@ require_once 'core.inc.php';
         <a href="math.php">Math</a>
     </li>
 
-<!--    <li>
+    <li>
+        <a href="#">Software</a>
+        <ul>
+            <li>
+                <a href="#">PHP</a>
+                <ul>
+                    <li><a href="phpMyFirstProject.php">My First Program</a></li>
+                </ul>
+            </li>
+
+            <li>
+                <a href="#">JavaScript</a>
+                <ul>
+                    <li><a href="jsMyFirstProject.php">My First Program</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+
+    <!--    <li>
         <a href="#">Examples</a>
         <ul>
             <li>
@@ -73,30 +92,30 @@ require_once 'core.inc.php';
             </li>
         </ul>
     </li>-->
-    
+
     <li>
         <a href="#">Step by Step</a>
         <ul>
             <li><a href="qt_sqlite.php">Database SQLite in Qt C++</a></li>
-<!--            <li>Главная инструкция разработчика</li>-->
-<!--            <li><a href="tdd_cpp.php">Создание юнит-тестов на C++ (TDD)</a></li>
-            <li><a href="tdd_qt.php">Создание юнит-тестов на Qt C++ (TDD)</a></li>
-            <li><a href="static_qt.php">Инструкция для сборки приложений на Qt в один exe без зависимостей</a></li>-->
+            <!--            <li>Главная инструкция разработчика</li>-->
+            <!--            <li><a href="tdd_cpp.php">Создание юнит-тестов на C++ (TDD)</a></li>
+                        <li><a href="tdd_qt.php">Создание юнит-тестов на Qt C++ (TDD)</a></li>
+                        <li><a href="static_qt.php">Инструкция для сборки приложений на Qt в один exe без зависимостей</a></li>-->
             <li><a href="git.php">Git</a></li>
-<!--            <li><a href="">Список дополнительных инструкций</a></li>-->
-        </ul>
-    </li>
-    
-<!--    <li>
-        <a href="#">Resources</a>
-        <ul>
-            <li><a href="dev_books.php">Books about software development</a></li>
+            <!--            <li><a href="">Список дополнительных инструкций</a></li>-->
         </ul>
     </li>
 
-    <li>
-        <a href="favorite_forums.php">My favorite forums</a>
-    </li>-->
+    <!--    <li>
+            <a href="#">Resources</a>
+            <ul>
+                <li><a href="dev_books.php">Books about software development</a></li>
+            </ul>
+        </li>
+    
+        <li>
+            <a href="favorite_forums.php">My favorite forums</a>
+        </li>-->
 
     <li>
         <a href="http://notes.orgfree.com/">Russian Version</a>

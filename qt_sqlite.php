@@ -23,7 +23,11 @@ and open the template in the editor.
             <li>ОС Windows 7</li>
         </ul>
 
-        <p>Note. The instruction is base on video: <a href="http://www.youtube.com/watch?v=cc06D3wuTn4">http://www.youtube.com/watch?v=cc06D3wuTn4</a></p>
+        <p>
+            Notes<br />
+            1) The instruction is base on video: <a href="http://www.youtube.com/watch?v=cc06D3wuTn4">http://www.youtube.com/watch?v=cc06D3wuTn4</a><br />
+            2) Inserting, updating and deleting data: <a href="http://zetcode.com/db/sqlite/datamanipulation/">http://zetcode.com/db/sqlite/datamanipulation/</a><br />
+        </p>
 
         <h3>Instruction</h3>
         <ul>
