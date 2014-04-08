@@ -7,13 +7,34 @@ require_once 'core.inc.php';
         <a href="index.php">Main</a>
     </li>
 
-    <li>
-        <a href="math.php">Math</a>
-    </li>
+    <!--    <li>
+            <a href="math.php">Math</a>
+        </li>-->
 
     <li>
         <a href="#">Software</a>
         <ul>
+            <li>
+                <a href="#">Qt</a>
+                <ul>
+                    <li><a href="qt_list_examples.php">Qt Examples</a></li>
+
+                    <li>
+                        <a href="#">Step by Step</a>
+                        <ul>
+                            <li><a href="qt_sqlite.php">Database SQLite in Qt C++</a></li>
+                            <!--            <li>Главная инструкция разработчика</li>-->
+                            <!--            <li><a href="tdd_cpp.php">Создание юнит-тестов на C++ (TDD)</a></li>
+                                        <li><a href="tdd_qt.php">Создание юнит-тестов на Qt C++ (TDD)</a></li>
+                                        <li><a href="static_qt.php">Инструкция для сборки приложений на Qt в один exe без зависимостей</a></li>-->
+                            <li><a href="git.php">Git</a></li>
+                            <!--            <li><a href="">Список дополнительных инструкций</a></li>-->
+                        </ul>
+
+                    </li>
+                </ul>
+            </li>
+
             <li>
                 <a href="#">PHP</a>
                 <ul>
@@ -92,19 +113,6 @@ require_once 'core.inc.php';
             </li>
         </ul>
     </li>-->
-
-    <li>
-        <a href="#">Step by Step</a>
-        <ul>
-            <li><a href="qt_sqlite.php">Database SQLite in Qt C++</a></li>
-            <!--            <li>Главная инструкция разработчика</li>-->
-            <!--            <li><a href="tdd_cpp.php">Создание юнит-тестов на C++ (TDD)</a></li>
-                        <li><a href="tdd_qt.php">Создание юнит-тестов на Qt C++ (TDD)</a></li>
-                        <li><a href="static_qt.php">Инструкция для сборки приложений на Qt в один exe без зависимостей</a></li>-->
-            <li><a href="git.php">Git</a></li>
-            <!--            <li><a href="">Список дополнительных инструкций</a></li>-->
-        </ul>
-    </li>
 
     <!--    <li>
             <a href="#">Resources</a>
