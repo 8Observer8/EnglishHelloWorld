@@ -44,7 +44,6 @@ and open the template in the editor.
             <img src="img/qt_sqlite/001.png" />
 
             <li>fill the table how in the picture:</li>
-            <li>заполняем таблицу, как показано на рисунке:</li>
             <img src="img/qt_sqlite/002.png" />
 
             <li>run Qt Creator</li>
