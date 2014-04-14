@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>My First Program in JavaSript</title>
+        <title>My First Project in JavaSript</title>
     </head>
     <body>
         <?php
@@ -15,7 +15,7 @@ and open the template in the editor.
         require 'libs.inc.php';
         ?>
 
-        <h1>My First Program in JavaSript</h1>
+        <h1>My First Project in JavaSript</h1>
 
         <ul>
             <li>fulfil this instruction (but write name of project: jsHelloWorld): <a href="phpMyFirstProject.php">My First Program in PHP</a></li>
