@@ -18,8 +18,8 @@ and open the template in the editor.
         <h1>My First Project in JavaSript</h1>
 
         <ul>
-            <li>fulfil this instruction (but write name of project: jsHelloWorld): <a href="phpMyFirstProject.php">My First Program in PHP</a></li>
-            <li>copy and past this code in index.php</li>
+            <li>Fulfil this instruction (but write name of project: jsHelloWorld): <a href="phpMyFirstProject.php">My First Program in PHP</a></li>
+            <li>Copy and paste this code in index.php</li>
 
             <p><strong>index.php</strong></p>
             <pre>
@@ -51,7 +51,11 @@ and open the template in the editor.
 </code>
             </pre>
 
-            <li>click F6 for running this program</li>
+            <li>For running application, click "Green Triangle", like on the picture:</li>
+            <img src="img/myFirstProjectInJavaScript/0001.png" />
+            <br />
+            <br />
+            <li>Or press F6</li>
         </ul>
     </body>
 </html>

@@ -17,8 +17,8 @@ and open the template in the editor.
 
         <h1>Instulling NetBeans</h1>
         <ul>
-            <li>install Java (for working NetBeans IDE):  <a href="http://java.com/">http://java.com/</a></li>
-            <li>download and install NetBeans (select "All"): <a href="https://netbeans.org/downloads/">https://netbeans.org/downloads/</a></li>
+            <li>Install Java (for working NetBeans IDE):  <a href="http://java.com/">http://java.com/</a></li>
+            <li>Download and install NetBeans (select "All"): <a href="https://netbeans.org/downloads/">https://netbeans.org/downloads/</a></li>
         </ul>
     </body>
 </html>

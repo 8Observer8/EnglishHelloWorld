@@ -21,7 +21,7 @@ require_once 'core.inc.php';
                         <a href="#">Step by Step</a>
                         <ul>
 <!--                            <li><a href="installing_qt.php">Installing IDE</a></li>-->
-                            <li><a href="cppMyFirstProject.php">My First Project</a></li>
+                            <li><a href="myFirstProjectInCpp.php">My First Project in C++</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -47,7 +47,7 @@ require_once 'core.inc.php';
                         <a href="#">Step by Step</a>
                         <ul>
                             <li><a href="installing_netbeans.php">Installing IDE</a></li>
-                            <li><a href="javaMyFirstProject.php">My First Project</a></li>
+                            <li><a href="myFirstProjectInJava.php">My First Project in Java</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -59,8 +59,7 @@ require_once 'core.inc.php';
                     <li>
                         <a href="#">Step by Step</a>
                         <ul>
-                            <li><a href="installing_qt.php">Installing IDE</a></li>
-                            <li><a href="qtMyFirstProject.php">My First Project</a></li>
+                            <li><a href="myFirstGuiInQt.php">My First GUI application in Qt</a></li>
                             <li><a href="qt_sqlite.php">Database SQLite in Qt C++</a></li>
                             <!--            <li>Главная инструкция разработчика</li>-->
                             <!--            <li><a href="tdd_cpp.php">Создание юнит-тестов на C++ (TDD)</a></li>
@@ -75,14 +74,14 @@ require_once 'core.inc.php';
                 </ul>
             </li>
 
-<!--            <li>
+            <li>
                 <a href="#">PHP</a>
                 <ul>
                     <li>
                         <a href="#">Step by Step</a>
                         <ul>
                             <li><a href="installing_netbeans.php">Installing IDE</a></li>
-                            <li><a href="phpMyFirstProject.php">My First Project</a></li>
+                            <li><a href="myFirstProjectInPHP.php">My First Project in PHP</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -95,11 +94,11 @@ require_once 'core.inc.php';
                         <a href="#">Step by Step</a>
                         <ul>
                             <li><a href="installing_netbeans.php">Installing IDE</a></li>
-                            <li><a href="jsMyFirstProject.php">My First Project</a></li>
+                            <li><a href="myFirstProjectInJavaScript.php">My First Project in JavaScript</a></li>
                         </ul>
                     </li>
                 </ul>
-            </li>-->
+            </li>
         </ul>
     </li>
 

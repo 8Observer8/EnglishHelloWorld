@@ -19,18 +19,18 @@ and open the template in the editor.
 
         <h3>Instruction</h3>
         <ul>
-            <li>install NetBeans IDE. See instruction: <a href="installing_netbeans.php">Instulling NetBeans</a></li>
-            <li>run NetBeans</li>
-            <li>select in the menu "File" -> "New Project..."</li>
-            <li>in the "Categories" field select "Java" -> in the "Projects" field select "Java Application" -> click the button "Next". Like on the picture:</li>
-            <img src="img/javaMyFirstProject/001.png" />
+            <li>Install NetBeans IDE. See instruction: <a href="installing_netbeans.php">Instulling NetBeans</a></li>
+            <li>Run NetBeans</li>
+            <li>In the "Menu", select "File" -> "New Project..."</li>
+            <li>In the "Categories" field, select "Java" -> in the "Projects" field, select "Java Application" -> click the button "Next". Like on the picture:</li>
+            <img src="img/myFirstProjectInJava/001.png" />
             <br />
             <br />
-            <li>in the "Project Name" field write: HelloWorld -> click button "Browse..." -> select a location for your project -> click the button "Finish". Like on the picture:</li>
-            <img src="img/javaMyFirstProject/002.png" />
+            <li>In the "Project Name" field, write: HelloWorld -> click the button "Browse..." -> select a location for your project -> click the button "Finish", like on the picture:</li>
+            <img src="img/myFirstProjectInJava/002.png" />
             <br />
             <br />
-            <li>copy and past following code to the file "HelloWorld.java":</li>
+            <li>Copy and paste following code to the file "HelloWorld.java":</li>
             <p><strong>HelloWorld.java</strong></p>
             <pre>
 <code class="language-java">
@@ -44,13 +44,13 @@ public class HelloWorld {
 
 }</code>
             </pre>
-            <li>for running application click "Green Triangle". Like on the picture:</li>
-            <img src="img/javaMyFirstProject/003.png" />
+            <li>For running application, click "Green Triangle", like on the picture:</li>
+            <img src="img/myFirstProjectInJava/003.png" />
             <br />
             <br />
-            <li>or press F6</li>
-            <li>you can see the result of working of the application in the "Output" window:</li>
-            <img src="img/javaMyFirstProject/004.png" />
+            <li>Or press F6</li>
+            <li>You can view the result of working of the application in the "Output" window:</li>
+            <img src="img/myFirstProjectInJava/004.png" />
         </ul>
     </body>
 </html>
