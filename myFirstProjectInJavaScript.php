@@ -18,7 +18,7 @@ and open the template in the editor.
         <h1>My First Project in JavaSript</h1>
 
         <ul>
-            <li>Fulfil this instruction (but write name of project: jsHelloWorld): <a href="phpMyFirstProject.php">My First Program in PHP</a></li>
+            <li>Fulfil this instruction (but write name of project: jsHelloWorld): <a href="myFirstProjectInPHP.php">My First Program in PHP</a></li>
             <li>Copy and paste this code in index.php</li>
 
             <p><strong>index.php</strong></p>
