@@ -38,6 +38,8 @@ and open the template in the editor.
             <li>In the "Folder Name", write: css -> click the button "Finish"</li>
             <li>Right click on the folder "css" -> select "New" -> select "Folder..."</li>
             <li>From the folder "jquery.jqplot.1.0.8r1250" copy to your "css" folder, the following file: "jquery.jqplot.css" </li>
+            <li>It must look like this:</li>
+            <img src="img/myFirstPlotInJavaScript/0003.png" />
             <li>Note. We will use the first example, from here: <a href="http://www.jqplot.com/tests/line-charts.php">http://www.jqplot.com/tests/line-charts.php</a></li>
             <li>Copy and paste this code in index.php</li>
 
