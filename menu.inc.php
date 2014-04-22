@@ -95,6 +95,7 @@ require_once 'core.inc.php';
                         <ul>
                             <li><a href="installing_netbeans.php">Installing IDE</a></li>
                             <li><a href="myFirstProjectInJavaScript.php">My First Project in JavaScript</a></li>
+                            <li><a href="myFirstPlotInJavaScript.php">My First Plot in JavaScript</a></li>
                         </ul>
                     </li>
                 </ul>
