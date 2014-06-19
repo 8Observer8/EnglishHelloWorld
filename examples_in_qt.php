@@ -19,6 +19,7 @@ and open the template in the editor.
         
         <ul class="content">
             <li><a href="ex_in_qt_CounterOfWords.php">Counter Of Words</a></li>
+            <li><a href="ParserHtmlRGB.php">ParserHtmlRGB</a></li>
         </ul>
         
 <!--        <p><strong>Description. </strong> Here is present examples in Qt. Every example has:</p>

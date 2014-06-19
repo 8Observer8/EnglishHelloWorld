@@ -15,6 +15,10 @@ require_once 'core.inc.php';
         <a href="#">Development</a>
         <ul>
             <li>
+                <a href="examples.php">Examples</a>
+            </li>
+            
+            <li>
                 <a href="#">C++</a>
                 <ul>
                     <li>
