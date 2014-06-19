@@ -15,8 +15,13 @@ and open the template in the editor.
         require 'menu.inc.php';
         ?>
 
-        <h1>Examples in Qt 5.2</h1>
-        <p><strong>Description. </strong> Here is present examples in Qt. Every example has:</p>
+        <h1>Examples in Qt</h1>
+        
+        <ul class="content">
+            <li><a href="ex_in_qt_CounterOfWords.php">Counter Of Words</a></li>
+        </ul>
+        
+<!--        <p><strong>Description. </strong> Here is present examples in Qt. Every example has:</p>
         <ul>
             <li>concise description</li>
             <li>source code of a project</li>
@@ -94,7 +99,7 @@ and open the template in the editor.
                 </p>
             </div>
 
-            <!--            <h3>Запись и чтение бинарного файла</h3>
+                        <h3>Запись и чтение бинарного файла</h3>
             <div>
                 <p>
                     <strong id="brown">Исходники:</strong>
@@ -112,7 +117,7 @@ and open the template in the editor.
                         
                     </a>
                 </p>
-            </div>-->
+            </div>
 
             <h3>List of friends from social network www.vk.com</h3>
             <div>
@@ -133,6 +138,6 @@ and open the template in the editor.
                     </a>
                 </p>
             </div>
-        </div>
+        </div>-->
     </body>
 </html>

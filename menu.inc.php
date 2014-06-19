@@ -70,7 +70,7 @@ require_once 'core.inc.php';
                         </ul>
 
                     </li>
-                    <li><a href="qt_list_examples.php">Qt Examples</a></li>
+                    <li><a href="examples_in_qt.php">Qt Examples</a></li>
                 </ul>
             </li>
 
