@@ -29,7 +29,7 @@ and open the template in the editor.
                 Definition. Monotonically increasing sequence of numbers
             </li>
             
-            //\forall m \forall n ((n > m) \Rightarrow (a_{n}> a_{m}))
+<!--            \forall m \forall n ((n > m) \Rightarrow (a_{n}> a_{m}))-->
             
             <img src="img/math/0001.gif"/>
         </ol>
