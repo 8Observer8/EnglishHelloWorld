@@ -19,7 +19,10 @@ and open the template in the editor.
         
         <p class="content">
             <strong>Description.</strong> The Application takes all
-            colors from the webpage.
+            colors from the webpage. For example for this:
+            <a href="http://www.w3schools.com/html/html_colors.asp">
+                http://www.w3schools.com/html/html_colors.asp
+            </a>
         </p>
         
         <p class="content">

@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Math</title>
+        <title>Математика</title>
     </head>
     <body>
         <?php
@@ -16,7 +16,7 @@ and open the template in the editor.
         ?>
         
         <h1>Math</h1>
-        
+
         <ol>
             <li>
                 Definition. Number sequence
@@ -28,9 +28,9 @@ and open the template in the editor.
             <li>
                 Definition. Monotonically increasing sequence of numbers
             </li>
-            <!--
-            \forall m \forall n ((n > m) \Rightarrow (a_{n}> a_{m}))
-            -->
+            
+            //\forall m \forall n ((n > m) \Rightarrow (a_{n}> a_{m}))
+            
             <img src="img/math/0001.gif"/>
         </ol>
 
