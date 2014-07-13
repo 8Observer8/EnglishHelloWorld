@@ -86,19 +86,19 @@ main_image {
 }
 
 h1 {
-    font-family: cursive, Arial, sans-serif;
+    font-family: verdana, cursive, sans-serif;
     color: blue;
     text-align: center;
 }
 
 body > a {
-    font-family: cursive, Arial, sans-serif;
+    font-family: verdana, cursive, sans-serif;
 }
 
 body {
     background: #FFFFFF;
     line-height: 1.5em;
-    font-family: Arial;
+    font-family: verdana;
 }
 
 .content {
