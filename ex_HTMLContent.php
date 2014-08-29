@@ -15,10 +15,25 @@ and open the template in the editor.
         require 'menu.inc.php';
         ?>
 
+        <br />
         <h1 class="content">Get HTML content and write it on the screen</h1>
+        
+        <br />
+        <p class="content">Note. You need to install OpenSSL or put these three file at exe:</p>
 
-        <p><strong>HTMLContent.pro</strong></p>
-        <pre>
+        <br />
+        <ul class="content">
+            <li>libeay32.dll</li>
+            <li>msvcr90.dll</li>
+            <li>ssleay32.dll</li>
+        </ul>
+
+        <br />
+        <p class="content">You can download them from here: <a href="https://drive.google.com/folderview?id=0Bx0tUxTiRS9AaHlkZ1RuTTRjOFU&usp=sharing">link</a></p>
+
+        <br />
+        <p class="content"><strong>HTMLContent.pro</strong></p>
+        <pre class="content">
 <code class="language-cpp">
 QT       += core network
 
@@ -41,19 +56,19 @@ HEADERS += \
 </code>
         </pre>
         
-        <p><strong>NetworkManager.h</strong></p>
-        <pre>
+        <p class="content"><strong>NetworkManager.h</strong></p>
+        <pre class="content">
 <code class="language-cpp">
 #ifndef NETWORKMANAGER_H
 #define NETWORKMANAGER_H
 
-#include <memory>
-#include <string>
-#include <QObject>
-#include <QString>
-#include <QNetworkAccessManager>
-#include <QNetworkReply>
-#include <QNetworkRequest>
+#include &lt;memory&gt;
+#include &lt;string&gt;
+#include &lt;QObject&gt;
+#include &lt;QString&gt;
+#include &lt;QNetworkAccessManager&gt;
+#include &lt;QNetworkReply&gt;
+#include &lt;QNetworkRequest&gt;
 
 class NetworkManager : public QObject
 {
@@ -94,13 +109,13 @@ private:
 </code>
         </pre>
 
-        <p><strong>Receiver.h</strong></p>
-        <pre>
+        <p class="content"><strong>Receiver.h</strong></p>
+        <pre class="content">
 <code class="language-cpp">
 #ifndef RECEIVER_H
 #define RECEIVER_H
 
-#include <QDebug>
+#include &lt;QDebug&gt;
 
 class Receiver : public QObject
 {
@@ -117,11 +132,11 @@ public slots:
 </code>
         </pre>
 
-        <p><strong>main.cpp</strong></p>
-        <pre>
+        <p class="content"><strong>main.cpp</strong></p>
+        <pre class="content">
 <code class="language-cpp">
 
-#include <QCoreApplication>
+#include &lt;QCoreApplication&gt;
 #include "NetworkManager.h"
 #include "Receiver.h"
 
