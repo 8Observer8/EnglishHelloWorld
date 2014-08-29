@@ -15,7 +15,7 @@ and open the template in the editor.
         require 'menu.inc.php';
         ?>
 
-        <h1 class="content">Получаем содержимое html-страницы и выводим на экран</h1>
+        <h1 class="content">Get HTML content and write it on the screen</h1>
 
         <p><strong>HTMLContent.pro</strong></p>
         <pre>
